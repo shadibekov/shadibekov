@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm a Beginner Developer!
 
-<!--
-**shadibekov/shadibekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year college student studying Software Development.
 
-Here are some ideas to get you started:
+💻 I'm passionate about programming, technology, and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌍 Based in Astana, Kazakhstan 🇰🇿
+- 🎓 Studying Software Development
+- 💻 Learning Python, C#, HTML, CSS, and SQL
+- 🛠️ Working with Git, GitHub, and VS Code
+- 📚 Always learning and improving my coding skills
+- 🎯 Goal: Become a professional Software Developer
+
+### 💻 Tech Stack
+`Python` `C#` `HTML` `CSS` `SQL` `Git` `GitHub`
+
+### 📫 Let's Connect!
+Thanks for visiting my GitHub profile! ⭐
