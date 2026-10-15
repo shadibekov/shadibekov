@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Beginner Developer!
 
-🎓 I'm a first-year college student studying Software Development.
+🎓 I'm a second-year college student studying Software Development.
 
 💻 I'm passionate about programming, technology, and learning new skills.
 
